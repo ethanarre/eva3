@@ -1,0 +1,25 @@
+.cuerpo{
+    height: 85vh;
+    background: linear-gradient(177.1deg, transparent 10%, #212529 10%, #212529 90%, transparent 90%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+.info{
+    text-align: center;
+    color: white;
+}
+.carta{
+    display: block;
+    text-align: left;
+    background-color: rgb(60, 60, 60);
+    color: white;
+}
+.titulo{
+    font-size: 35px;
+    font-weight: 500;
+}
+.subtitulo{
+    font-size: 20px;
+}
